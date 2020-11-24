@@ -15,3 +15,6 @@ update.php
 web.config
 /vendor
 /sites/default/files/css
+/sites/lightning.dd/files/css/
+/sites/lightning.dd/files/php
+/sites/default/files/php
