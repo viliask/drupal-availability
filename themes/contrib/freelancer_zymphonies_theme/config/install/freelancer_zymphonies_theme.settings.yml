@@ -17,9 +17,9 @@ features:
    name: true
    node_user_picture: true
    slogan: true
-facebook_url: 'https://www.facebook.com/zymphonies'
-twitter_url: 'https://twitter.com/zymphonies'
-linkedin_url: 'http://www.linkedin.com/company/zymphonies'
+facebook_url: 'https://www.facebook.com/Masaż-Terapia-trzewi-Poznań-396214284304442/'contact-field conta
+twitter_url: 'https://twitter.com/AdrianWilas'
+linkedin_url: 'http://www.linkedin.com/'
 instagram_url: 'https://www.instagram.com/'
 rss_url: 'rss.xml'
 
@@ -33,6 +33,6 @@ show_slideshow: 1
 
 #Slider Default Images & Description
 slide_title_1: 'The Easiest Way to Get suitable Property'
-slide_description_1: 'Find Flats, Apartments & Real Estate' 
+slide_description_1: 'Find Flats, Apartments & Real Estate'
 slide_url_1: '#'
 slide_image_path_1: '/images/slider/slide_01.jpg'
