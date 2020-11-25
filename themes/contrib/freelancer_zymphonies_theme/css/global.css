@@ -107,3 +107,9 @@
     margin: 28px 0 0;
   }
 }
+
+@media (min-width: 767px) {
+  .align-right.embedded-entity img {
+    padding: 0 0 0 30px;
+  }
+}
