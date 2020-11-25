@@ -33,6 +33,7 @@
         "drupal/lightning_workflow": "^3.14",
         "drupal/slick_extras": "^1.0@RC",
         "drupal/slick_views": "~2.0",
+        "drupal/social_contact_info": "^3.0",
         "oomphinc/composer-installers-extender": "^1.1"
     },
     "conflict": {
