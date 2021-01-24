@@ -41,6 +41,7 @@
 .flexslider .slides img {
   min-height: 250px;
   height: auto;
+  max-height: 500px;
   -moz-user-select: none;
 }
 
@@ -84,6 +85,16 @@
   text-align: center;
 }
 
+/*.top-social-media.social-media a{*/
+/*  background: -webkit-linear-gradient(45deg, #09009f, #00ff95 80%);*/
+/*  -webkit-background-clip: text;*/
+/*  -webkit-text-fill-color: transparent;*/
+/*}*/
+
+.fc-license-message {
+  visibility: hidden;
+}
+
 @media (max-width: 767px) {
   .region-primary-menu {
     background: rgba(0,0,0,0.99);
@@ -114,6 +125,10 @@
   .flexslider .slider-caption h2{
     margin: 10px 0;
   }
+}
+
+ol li, ul li{
+  list-style: inherit;
 }
 
 @media (min-width: 767px) {

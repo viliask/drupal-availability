@@ -6,7 +6,7 @@ h2, .h2,
 h3, .h3,
 h4, .h4{
   font-family: $titleFontFamily;
-  font-weight: 400; 
+  font-weight: 400;
   margin: 10px 0;
   line-height: 120%;
 }
@@ -37,7 +37,7 @@ strong, b { font-weight: bold; }
 
 a {
 	color: $linkColor;
-  
+
 	&:hover{
   		color: $linkColorHover;
   		text-decoration: none;
@@ -49,7 +49,7 @@ ol, ul {
   margin-bottom: 20px;
 
   li{
-    list-style: outside;
+    //list-style: outside;
   }
 }
 

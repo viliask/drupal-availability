@@ -141,6 +141,21 @@
       </ul>
     </div>
   </div>
+{% else %}
+  <div class="container-">
+    <div class="flexslider">
+
+      <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 600%; transition-duration: 0s; transform: translate3d(-1266px, 0px, 0px);">
+          <li style="width: 1266px; margin-right: 0px; float: left; display: block;" class="clone" aria-hidden="true">
+            <img src="{{ file_url(node.field_image.entity.fileuri) }}" alt="Slider Banner" draggable="false">
+            <div class="slider-caption">
+              <h2 class="slider-title">Tytuł artykułu</h2>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
 {% endif %}
 <!-- End: Region -->
 

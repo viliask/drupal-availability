@@ -475,7 +475,7 @@ if ($settings['hash_salt']) {
  *
  * Remove the leading hash signs to disable.
  */
-//$settings['allow_authorize_operations'] = FALSE;
+$settings['allow_authorize_operations'] = TRUE;
 
 /**
  * Default mode for directories and files written by Drupal.
